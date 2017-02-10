@@ -2,7 +2,7 @@
 #import <React/RCTEventDispatcher.h>
 #import <React/RCTLog.h>
 #import <React/RCTConvert.h>
-#import <React/RCTCONVERT+CBUUID.h>
+#import "RCTCONVERT+CBUUID.h"
 #import <React/RCTUtils.h>
 
 @interface RNBLE () <CBCentralManagerDelegate, CBPeripheralDelegate> {
